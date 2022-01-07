@@ -1,0 +1,118 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+.half-width{
+    width: 50%;
+    }
+section{
+    display: flex;
+    margin: 50px 125px;
+}
+.half-width img{
+    width: 80%;
+}
+.mission{
+    color: rgb(245, 201, 59);
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgba(255, 99, 71, 0.8),tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+#main-title{
+    border-left: 5px solid rgb(253, 64, 64);
+    
+    
+}
+.Middle-Heading{
+    text-align: center;
+    font-size: 40px;
+}
+.Div-width{
+    width: 30%;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: justify;
+}
+#d1{
+    background-color: rgb(156, 156, 235);
+}
+#d2{
+    background-color: rgb(223, 145, 116);
+}
+#d3{
+    background-color: rgb(231, 216, 154);
+}
+.pic-3{
+    width: 33%;
+    margin: 50px 120px;
+}
+.pic-3 img{
+    width: 100%;
+      
+}
+.paragraph{
+    width: 67%;
+    padding: 30px;
+    margin: 10px;
+
+}
+.section-3{
+    display: flex;
+    margin: 0px 75px 50px 0px;
+    
+}
+#img-left{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    
+}
+
+.section-4{
+    display: flex;
+    margin: 50px 125px;
+}
+.pic-4{
+    width: 40%;
+    height: 200px;
+    margin: 50px 250px;
+}
+
+.pic-4 img{
+    width: 250%;
+}
+.paragraph-2{
+    width: 100%;
+    margin: 10px;
+}
+#img-right{background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:bottom; 
+    background-size: 150px;
+    background-position-x: right;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    
+}
+#year{
+    color:rgb(236, 51, 51) ;
+}
+.footer-tex{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;    
+}
